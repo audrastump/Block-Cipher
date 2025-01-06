@@ -1,0 +1,1 @@
+A block cipher is a type of symmetric encryption algorithm that encrypts data in fixed-size blocks, typically 64 or 128 bits. It transforms plaintext (unencrypted data) into ciphertext (encrypted data) in these blocks using a secret key. Decryption reverses this process to retrieve the original plaintext using the same key.
